@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Anthony Ezeigbo
 
 # Cloud Engineer | DevOps
-=============================================================================================================================
+
 I design and deploy production-ready cloud infrastructure on AWS with a focus on high availability, security, and automation.
 
-:Tools: Tech Stack's 
+:hammer_and_wrench: Tech Stack's 
 
 * Cloud: AWS (VPC, EC2, RDS, EKS, ALB, Auto Scaling)
 * IaC: Terraform, Ansible
